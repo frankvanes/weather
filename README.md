@@ -1,5 +1,3 @@
-# Het weer
-
 - [KNMI weerbericht](https://www.knmi.nl/nederland-nu/weer/verwachtingen)
 - [KNMI waarschuwingen](https://www.knmi.nl/nederland-nu/weer/waarschuwingen/zuid-holland)
 - [KNMI neerslagradar](https://www.knmi.nl/nederland-nu/weer/actueel-weer/neerslagradar)
